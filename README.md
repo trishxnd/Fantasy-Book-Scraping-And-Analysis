@@ -1,4 +1,4 @@
-# GBPUSD Price Forecast Using Machine Learning
+# Fantasy Book Scraping and Analysis
 
 ## Project Overview
 
