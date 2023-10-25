@@ -9,7 +9,9 @@ My interactive dashboard can be found [here](https://public.tableau.com/app/prof
 ## Prerequisites
 
 **Python 3**
+
 **Tableau Public** (Only if you want to run Tableau workbook locally)
+
 **Libraries:** pandas, requests, beautifulsoup, matplotlib, numpy, seaborn
 
 ## About the Dataset
